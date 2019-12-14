@@ -24,5 +24,5 @@ Data Preparation & Manipulation
 
 More details please check the ipynotebook.  
 
-There are 2 parts of this project, the first ipynotebook is for data preparation, and the second one is for machine learning for the monthly data set, which has linear regression and time series analysis.
+There are 2 parts of this project, the first is for data preparation, and the second is for machine learning for the daily & monthly data set, which has linear regression and time series analysis.
 
