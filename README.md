@@ -13,6 +13,9 @@ Data Sources
 2) Moscow Airport METAR (Meteorological Aerodrome Report) data, provided by rp5.ru
 
 
+Project Platform: Databricks Community Edition
+
+
 Data Preparation & Manipulation
 
 - Sales data were filtered for Moscow, then aggregated, resulted in daily and monthly items sold and revenue
