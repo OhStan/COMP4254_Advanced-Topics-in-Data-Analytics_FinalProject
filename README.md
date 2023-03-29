@@ -1,5 +1,5 @@
 # COMP4254_FinalProject
-Final Course Project for COMP4254
+Final Course Project for COMP4254 - Advanced Topics in Data Analytics
 
 Objective
 - We want to study if there is a relationship between temperature and sales of software in colder area of the world.
