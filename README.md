@@ -1,4 +1,4 @@
-# COMP4254_FinalProject
+# COMP4254 Advanced Topics in Data Analytics FinalProject
 Final Course Project for COMP4254 - Advanced Topics in Data Analytics
 
 Objective
